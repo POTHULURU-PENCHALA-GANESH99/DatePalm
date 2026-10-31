@@ -1,0 +1,17 @@
+streamlit
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+Pillow
+matplotlib
+seaborn
+plotly
+lightgbm
+imbalanced-learn
+joblib
+scipy
+streamlit-option-menu
+streamlit-extras
+PyYAML
